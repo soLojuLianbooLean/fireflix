@@ -35,7 +35,7 @@
                     <connections>
                         <outlet property="nowShowing" destination="Ohx-9F-BBP" id="eke-Ka-5ng"/>
                         <outlet property="seachTextField" destination="udd-sw-NKl" id="q5T-4M-IK3"/>
-                        <outlet property="" destination="qPt-MR-NVW" id="l2f-oj-MNw"/>
+                 
                         <outlet property="searchTextField" destination="Ohx-9F-BBP" id="7l5-Ra-9DS"/>
                     </connections>
                 </viewController>
