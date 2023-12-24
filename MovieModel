@@ -1,0 +1,16 @@
+//
+//  MovieModel.swift
+//  Fireflix
+//
+//  Created by Julian Reefer on 12/23/23.
+//
+
+import Foundation
+
+struct MovieModel {
+    let image_genre: String
+    let image_name: String
+    let image_image: String
+}
+
+
