@@ -1,0 +1,20 @@
+//
+//  MovieData.swift
+//  Fireflix
+//
+//  Created by Julian Reefer on 12/23/23.
+//
+
+import UIKit
+
+struct MovieData: Decodable {
+    let image_name: String
+    let image_genre: String
+    let image_image: String }
+    
+    private enum CodingKeys: String, CodingKey {
+        case image_name = "name"
+        case genre
+    }
+
+
